@@ -8,6 +8,10 @@ As shown in the following figure, we build three CNN models for each of these vi
 
 ![cso](https://github.com/user-attachments/assets/eeb8b331-f794-4972-80d8-d19d8917e846)
 
+![image](https://github.com/user-attachments/assets/40affaf0-06bd-4adf-b8c3-498ec12530dd)
+![image](https://github.com/user-attachments/assets/3f7ae9fa-f981-41e1-81e6-257e19ed7ee3)
+
+
 ## Tools
 
 <img src="https://img.shields.io/badge/-Tensorflow-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
